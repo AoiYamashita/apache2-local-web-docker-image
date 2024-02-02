@@ -1,2 +1,2 @@
-# local_web
-ubuntu git docker rosの講習資料
+# apache2 local web docker image
+docker image of apache2
